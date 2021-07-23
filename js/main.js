@@ -68,7 +68,7 @@ window.onload=function(){
           td.classList.add('back');
           flipTimerId=NaN;
           firstCard=null;
-        },1200);
+        },3000);
       }
     }
   }
