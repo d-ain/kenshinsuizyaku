@@ -6,9 +6,9 @@ table{
   margin:10px auto;
 }
 td.card{
-  width:200px;
-  height:300px;
-  margin:2px;
+  width:240px;
+  height:360px;
+  margin:5px;
   background-size:cover;
 }
 /*以下を追記*/
